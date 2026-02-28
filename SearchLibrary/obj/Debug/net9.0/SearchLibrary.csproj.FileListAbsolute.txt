@@ -9,3 +9,4 @@ C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary\obj\Debug\net
 C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary\obj\Debug\net9.0\refint\SearchLibrary.dll
 C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary\obj\Debug\net9.0\SearchLibrary.pdb
 C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary\obj\Debug\net9.0\ref\SearchLibrary.dll
+C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary\obj\Debug\net9.0\SearchLibrary.sourcelink.json

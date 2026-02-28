@@ -100,3 +100,4 @@ C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary.Tests\obj\Deb
 C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary.Tests\obj\Debug\net9.0\SearchLibrary.Tests.pdb
 C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary.Tests\obj\Debug\net9.0\SearchLibrary.Tests.genruntimeconfig.cache
 C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary.Tests\obj\Debug\net9.0\ref\SearchLibrary.Tests.dll
+C:\Users\ahsan\OneDrive\Desktop\SearchLibraryProject\SearchLibrary.Tests\obj\Debug\net9.0\SearchLibrary.Tests.sourcelink.json
