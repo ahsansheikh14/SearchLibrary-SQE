@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\asima\\OneDrive - Higher Education Commission\\Bahria Uni\\6th semester\\SQE\\Assignment\\1\\SearchLibrary-SQE\\SearchLibrary\\SearchLibrary.csproj": {}
+    "C:\\Users\\ahsan\\OneDrive\\Desktop\\SearchLibraryProject\\SearchLibrary\\SearchLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\asima\\OneDrive - Higher Education Commission\\Bahria Uni\\6th semester\\SQE\\Assignment\\1\\SearchLibrary-SQE\\SearchLibrary\\SearchLibrary.csproj": {
+    "C:\\Users\\ahsan\\OneDrive\\Desktop\\SearchLibraryProject\\SearchLibrary\\SearchLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\asima\\OneDrive - Higher Education Commission\\Bahria Uni\\6th semester\\SQE\\Assignment\\1\\SearchLibrary-SQE\\SearchLibrary\\SearchLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ahsan\\OneDrive\\Desktop\\SearchLibraryProject\\SearchLibrary\\SearchLibrary.csproj",
         "projectName": "SearchLibrary",
-        "projectPath": "C:\\Users\\asima\\OneDrive - Higher Education Commission\\Bahria Uni\\6th semester\\SQE\\Assignment\\1\\SearchLibrary-SQE\\SearchLibrary\\SearchLibrary.csproj",
-        "packagesPath": "C:\\Users\\asima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\asima\\OneDrive - Higher Education Commission\\Bahria Uni\\6th semester\\SQE\\Assignment\\1\\SearchLibrary-SQE\\SearchLibrary\\obj\\",
+        "projectPath": "C:\\Users\\ahsan\\OneDrive\\Desktop\\SearchLibraryProject\\SearchLibrary\\SearchLibrary.csproj",
+        "packagesPath": "C:\\Users\\ahsan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahsan\\OneDrive\\Desktop\\SearchLibraryProject\\SearchLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\asima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ahsan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
